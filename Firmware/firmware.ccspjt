@@ -1,0 +1,23 @@
+[PROJECT]
+Target=firmware.hex
+Processor_Text=PIC18F4550
+CCSVerions=5.015
+Compiler=PCH
+CCSVersion=5.015
+[Target Data]
+FileList=firmware.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\DriversC:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\Users\usuario\Desktop\PeopleCounter\Firmware\firmware]
+Type=4
+[mru-list]
+1=firmware.c
+[Opened Files]
+1=firmware.c
+2=
+3=
+[firmware.c]
+Type=4
+[Units]
+Count=1
+1=firmware (main)

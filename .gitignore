@@ -1,0 +1,11 @@
+Firmware/*.cof
+Firmware/*.err
+Firmware/*.esym
+Firmware/*.lst
+Firmware/*.STA
+Firmware/*.sym
+Firmware/*.tre
+Firmware/*.xsym
+Hardware/*.workspace
+Software/*.cfg
+Software/*.dcu
